@@ -1,4 +1,4 @@
-[![MasterHead](https://www.imaginarycloud.com/blog/content/images/2023/03/MERN.webp)](https://www.linkedin.com/in/ayoubayoubi)
+[![MasterHead](https://d29f7s48mh3g9z.cloudfront.net/wp-content/uploads/2022/07/mean-stack.png)](https://www.linkedin.com/in/ayoubayoubi)
 <h1 align="center">Hi 👋, I'm Ayoub AYOUBI</h1>
 <h3 align="center">A passionate full-stack developer developer </h3>
 <div width="400">
