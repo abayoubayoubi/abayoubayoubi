@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Angular , React , NodeJs , nestJs**
 
-- 📫 How to reach me **ayoub@bsuccess.net**
+- 📫 How to reach me **ab.ayoub.ayoubi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
